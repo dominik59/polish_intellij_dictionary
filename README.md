@@ -7,9 +7,9 @@ I used some info from this site: [JetBrains forum](https://intellij-support.jetb
 
 ## Usage
 
-You need to download **pl_PL.dic** file to some directory on Your computer. It's important to make new directory, because in IntelliJ You need to select whole directory which contains user defined dictionaries, not just one file.
+You need to download **pl_PL.dic** (which is inside **pl_PL.zip** archive) file to some directory on Your computer. It's important to make new directory, because in IntelliJ You need to select whole directory which contains user defined dictionaries, not just one file.
 
-Lets assume that You have created new **dictionary** folder in Your **home** directory (Your path to that directory should look like that: **home/dictionary**). Next You need to paste downloaded file to that directory.
+Lets assume that You have created new **dictionary** folder in Your **home** directory (Your path to that directory should look like that: **home/dictionary**). Next You need to paste downloaded file to that directory (so new path to this file will look like that **home/dictionary/pl_PL.dic**).
 
 After that You need to open up IntelliJ program (PHPStorm,JetBrains etc.) and go to **File->Settings->Editor->Spelling->Dictionaries**. Next You need to click on **+** next to "Custom Dictionaries Folder" and select Your folder which contains pl_PL.dic file. After that click **OK**.
 
