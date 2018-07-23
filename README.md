@@ -1,4 +1,4 @@
-# Polish JetBrains (IntelliJ) dictionary
+# Polish JetBrains (IntelliJ, PhpStorm etc.) dictionary
 **Polish dictionary for JetBrains IDEs / Polski słownik do IDE JetBrains**
 
 I searched a lot over internet and I don't notice any valuable dictionary made for IntelliJ. You know for sure that if you are working on translations it is much better to have something to check text which you are typing.
