@@ -7,6 +7,14 @@ I used some info from this site: [JetBrains forum](https://intellij-support.jetb
 
 ## Usage
 
+### New Jetbrains tools
+User @egel (https://github.com/dominik59/polish_intellij_dictionary/issues/3) has suggested that in newer versions of Jetbrain tools (PhpStorm, IntelliJ etc.) procedure of dictionary is much simpler:
+0. Download repo and extract pl_Pl.dic
+0. Open IDE (PhpStorm, IntelliJ etc.) -> File -> Settings -> Editor -> Proofreading -> Spelling -> (Dictionaries tab) -> +
+0. Select previously extracted pl_Pl.dic
+0. Done
+
+### Old Jetbrains tools
 You need to download **pl_PL.dic** (which is inside **pl_PL.zip** archive) file to some directory on your computer. It's important to make new directory, because in JetBrains programs you need to select whole directory which contains user defined dictionaries, not just one file.
 
 Lets assume that you have created new **dictionary** folder in your **home** directory (your path to that directory should look like that: **home/dictionary**). Next you need to paste downloaded file to that directory (so new path to this file will look like that: **home/dictionary/pl_PL.dic**).
